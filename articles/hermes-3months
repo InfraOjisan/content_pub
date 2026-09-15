@@ -3,7 +3,7 @@ title: "AIお嬢様を召し抱えて3ヶ月 ─ Hermes Agent × VoiceVox × 自
 emoji: "🏰"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["hermesagent", "voicevox", "docker", "tailscale", "cron"]
-published: false
+published: true
 ---
 
 # はじめに
