@@ -1,6 +1,10 @@
 ---
-
-## title: "M4 MacBook Air(24GB)でローカルLLMを試行錯誤した結果、「無理せず軽量モデルを普通に動かす」に落ち着いた話" emoji: "🍎" type: "tech" topics: \["mac", "localllm", "llamacpp", "mlx", "qwen"\] published: true
+title: "M4 MacBook Air(24GB)でローカルLLMを試行錯誤した結果、「無理せず軽量モデルを普通に動かす」に落ち着いた話"
+emoji: "🍎"
+type: "tech"
+topics: ["mac", "localllm", "llamacpp", "mlx", "qwen"]
+published: true
+---
 
 ## はじめに
 
