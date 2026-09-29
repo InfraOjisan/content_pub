@@ -1,16 +1,8 @@
 ---
 title: "流行りの意思決定モデル（System 1 Model：いわゆるJev的なやつ）を使ったモデルルーターをRustで作ってみた"
-emoji: "🌐"
+emoji: "🚦"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["aiagent", "llm", "modelrouter", "rust", "jev","laya"]
-published: false
----
-
----
-title: "RustでローカルLLMルーターを作った：Layaの選択型判定でモデルを使い分ける"
-emoji: "🚦"
-type: "tech"
-topics: ["rust", "llm", "ollama", "laya", "ai"]
 published: false
 ---
 
