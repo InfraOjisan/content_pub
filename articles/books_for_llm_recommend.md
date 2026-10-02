@@ -2,7 +2,7 @@
 title: "生成AIを理解し、問いを立て、運用するための4冊"
 emoji: "📚"
 type: "tech"
-topics: ["review", "recomend", "llm", "oreilly", "study"]
+topics: ["review", "recommend", "llm", "oreilly", "study"]
 published: false
 ---
 
