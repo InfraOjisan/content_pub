@@ -110,8 +110,8 @@ GPTSolに解決させたら他の齟齬が出たけど物語上は影響がな�
 ![](https://static.zenn.studio/user-upload/f90ff25f61de-20261023.png)
 
 表紙ができてEPUB化まで完了。「原稿のまま作る」か「校正版で作る」をポチッとするとその右に出る「<書名>.epub をダウンロード」をクリックで **あなたの作った小説（ほぼAI）** が、ダウンロードできます。
-完成品がこれ。
-![](https://static.zenn.studio/user-upload/f7c19830ceb1-20261023.png)
+完成品が[これ](https://github.com/InfraOjisan/novel_studio/blob/main/%E8%B7%B3%E8%BA%8D%E3%81%AE%E5%BE%8C%E3%81%AB%E6%AE%8B%E3%82%8B%E3%82%82%E3%81%AE.epub)。
+![https://github.com/InfraOjisan/novel_studio/blob/main/%E8%B7%B3%E8%BA%8D%E3%81%AE%E5%BE%8C%E3%81%AB%E6%AE%8B%E3%82%8B%E3%82%82%E3%81%AE.epub](https://static.zenn.studio/user-upload/f7c19830ceb1-20261023.png)
 
 
 ## その他・まとめ
