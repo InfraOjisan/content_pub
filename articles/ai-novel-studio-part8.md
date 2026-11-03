@@ -14,13 +14,13 @@ published: false
 
 このシリーズでは、AIに小説を書かせる「制作スタジオ」を作ってきました。
 
-- [1本目](./ai-novel-studio-metaharness)：スタジオの組み方
-- [2本目](./ai-novel-studio-part2)：書き手のモデルの選び方と、文章の余白
-- [3本目](./ai-novel-studio-part3)：シリーズものを伏線の負債として管理する
-- [4本目](./ai-novel-studio-part4)：書いた小説を公開するまでのエンジニアリング
-- [5本目](./ai-novel-studio-part5)：AIエージェントのチームに書かせたら人狼ゲームになった話
-- [6本目](./ai-novel-studio-part6)：道具を v1.0 にして公開した
-- [7本目](./ai-novel-studio-part7)：ミステリを書かせるなら、書き手に真相を教えない
+- [1本目](https://zenn.dev/infra_ojisan/articles/ai-novel-studio-metaharness)：スタジオの組み方
+- [2本目](https://zenn.dev/infra_ojisan/articles/ai-novel-studio-part2)：書き手のモデルの選び方と、文章の余白
+- [3本目](https://zenn.dev/infra_ojisan/articles/ai-novel-studio-part3)：シリーズものを伏線の負債として管理する
+- [4本目](https://zenn.dev/infra_ojisan/articles/ai-novel-studio-part4)：書いた小説を公開するまでのエンジニアリング
+- [5本目](https://zenn.dev/infra_ojisan/articles/ai-novel-studio-part5)：AIエージェントのチームに書かせたら人狼ゲームになった話
+- [6本目](https://zenn.dev/infra_ojisan/articles/ai-novel-studio-part6)：道具を v1.0 にして公開した
+- [7本目](https://zenn.dev/infra_ojisan/articles/ai-novel-studio-part7)：ミステリを書かせるなら、書き手に真相を教えない
 
 7本目では、真相を台帳にして、視点人物の知覚だけを書き手に渡す作り方を設計しました。その延長で話していて、方向が一つ変わりました。
 
